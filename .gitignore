@@ -1,0 +1,13 @@
+target/
+tools/
+data/
+uploads/
+exports/
+logs/
+*.iml
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
